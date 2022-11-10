@@ -40,16 +40,16 @@ Partial Class frm_splashscreen_a187806
         'txt_name
         '
         Me.txt_name.Location = New System.Drawing.Point(332, 220)
-        Me.txt_name.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txt_name.Margin = New System.Windows.Forms.Padding(4)
         Me.txt_name.Name = "txt_name"
         Me.txt_name.Size = New System.Drawing.Size(132, 22)
         Me.txt_name.TabIndex = 1
-        Me.txt_name.Text = "Anonymous"
+        Me.txt_name.Text = "Chuo Ngiu Bing"
         '
         'btn_start
         '
         Me.btn_start.Location = New System.Drawing.Point(351, 351)
-        Me.btn_start.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btn_start.Margin = New System.Windows.Forms.Padding(4)
         Me.btn_start.Name = "btn_start"
         Me.btn_start.Size = New System.Drawing.Size(100, 28)
         Me.btn_start.TabIndex = 2
@@ -71,7 +71,7 @@ Partial Class frm_splashscreen_a187806
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(800, 439)
         Me.Controls.Add(Me.btn_start)
         Me.Controls.Add(Me.txt_name)
         Me.Controls.Add(Me.lbl_title)
