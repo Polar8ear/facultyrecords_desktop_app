@@ -8,6 +8,6 @@
     End Sub
 
     Private Sub frm_splashscreen_a187806_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        MsgBox("Welcome!")
+        MsgBox("Welcome onboard!")
     End Sub
 End Class
